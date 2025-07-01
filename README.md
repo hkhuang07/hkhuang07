@@ -10,83 +10,9 @@
 
 * **Phone number:** (+84) 924 202 149 
 * **Email:** huykyunh.k@gmail.com 
-* **Location:** Long Xuyen City, An Giang Province, Vietnam
 * **GitHub:** [https://github.com/hkhuang07/](https://github.com/hkhuang07/)
 * **Facebook:** [https://www.facebook.com/hk.huang07/](https://www.facebook.com/hk.huang07/)
-
----
-
-## 🛠️ Skills
-
-**Programming Languages:**
-* C#
-* Java 
-* JavaScript
-* PHP
-* HTML, CSS
-* Python (Basic)
-* Batch Script
-* Assembly language
-
-**Frameworks & Libraries:**
-* Android Jetpack (Compose, Architecture Components)
-* ASP.NET Core (Entity Framework Core)
-* ReactJS / Next.js
-* Node.js (Express.js)
-* Tailwind CSS
-* Bootstrap 5
-
-**Technologies & Platforms:**
-* Firebase (Firestore, Authentication, Storage)
-* Supabase (Database, Authentication, Storage, Policy...)
-* MongoDB Atlat
-* Git & GitHub
-* RESTful APIs
-* Cloud Computing Concepts (Basic understanding of AWS/GCP/Azure)
-* Docker (Basic)
-
-**Databases:**
-* SQL Server
-* MySQL
-* Oracle
-* MongoDB
-* PostgreSQL
-* SQLite
-
-**Tools:**
-* Visual Studio
-* Visual Studio Code
-* Android Studio
-* PyCharm
-* IntelliJ IDEA
-* Eclipse
-* Mars45.jar
-* VMware
-
----
-
-## 🗣️ Languages
-
-* **Vietnamese:** Native
-* **English:** Intermediate
-* **Chinese** Basic
-
----
-
-## 🤝 Soft Skills
-
-* **Continuous Learning & Self-Discipline:** Highly self-motivated with a strong aptitude for continuous learning and a disciplined approach to daily work, consistently engaging with new concepts and technologies.
-* **Problem-solving:** Aptitude for analyzing complex issues and developing effective solutions.
-* **Teamwork & Collaboration:** Experience collaborating effectively in group projects to achieve shared goals.
-* **Adaptability:** Eager to embrace new technologies and methodologies, quickly adapting to evolving project requirements.
-* **Effective Communication:** Clear and concise in conveying technical information and collaborating with team members.
-
----
-
-## 🎓 Education
-**An Giang University** | Long Xuyen City, An Giang, Vietnam
-* **Bachelor of Science in Information Technology**
-* **Expected Graduation:** 2026 (e.g., 2026)
+* **Location:** Long Xuyen City, An Giang Province, Vietnam
 
 ---
 
@@ -114,6 +40,68 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=gruvbox" alt="2H SecondHand Website - PHP" />
   </a>
 </p>
+
+---
+
+## 🛠️ Skills
+
+**Programming Languages:** 
+* C#, Java : Intermediate
+* HTML, CSS, JavaScript, PHP : Intermediate
+* Python: Basic
+* Batch Script, Assembly language: Basic
+
+**Frameworks & Libraries:**
+* ASP.NET Core (Entity Framework Core)
+* Android Jetpack (Compose, Architecture Components)
+* ReactJS / Next.js, Node.js (Express.js)
+* Tailwind CSS, Bootstrap 5
+
+**Technologies & Platforms:**
+* Firebase (Firestore, Authentication)
+* Supabase (Database, Authentication, Storage, Policy...)
+* MongoDB Atlat
+* Cloud Computing Concepts (Basic understanding of AWS/GCP/Azure)
+* Git & GitHub
+* RESTful APIs, Docker: (Basic)
+
+**Databases:**
+* SQL Server, MySQL: Intermediate
+* Oracle: Intermediate
+* PostgreSQL,MongoDB,SQLite : Basic
+
+**Tools:**
+* Visual Studio, Visual Studio Code, Android Studio
+* PyCharm, IntelliJ IDEA
+* Eclipse, Mars45.jar
+* VMware ...
+
+---
+
+## 🗣️ Languages
+
+* **Vietnamese:** Native
+* **English:** Intermediate
+* **Chinese** Basic
+
+---
+
+## 🤝 Soft Skills
+
+* **Continuous Learning & Self-Discipline:** Highly self-motivated with a strong aptitude for continuous learning and a disciplined approach to daily work, consistently engaging with new concepts and technologies.
+* **Problem-solving:** Aptitude for analyzing complex issues and developing effective solutions.
+* **Teamwork & Collaboration:** Experience collaborating effectively in group projects to achieve shared goals.
+* **Adaptability:** Eager to embrace new technologies and methodologies, quickly adapting to evolving project requirements.
+* **Effective Communication:** Clear and concise in conveying technical information and collaborating with team members.
+
+---
+
+## 🎓 Education
+* **An Giang University** | Long Xuyen City, An Giang, Vietnam
+* **Bachelor of Science in Information Technology**
+* **Expected Graduation:** 2026 (e.g., 2026)
+
+---
 
 
 <!--theme=synthwave />
