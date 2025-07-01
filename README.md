@@ -1,16 +1,50 @@
-## Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Huynh Quoc Huy. I am a Working-Student at An Giang University. I have a passion for several topics such as Cloud Storage Service,  Information System Management, Mobile App, Website Technology, NLP, Computer Vision...<br>
+## 📫 How to reach me: 
 
-<!--
-**hkhuang07/hkhuang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hkhuang07/) 
+[![Facebook](https://github.com/vietnh1009/introduction/blob/main/Facebook.png) Facebook](https://www.facebook.com/hk.huang07/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Huy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hkhuang07&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/hkhuang07/Sales-Management-Application-In-3-Layer-Architecture-EF-Core">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=radical" />
+</a>    
+<a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=merko" />
+</a>
+
+<a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=gruvbox" />
+</a>    
+
+<a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=dark" />
+</a>
+
+<a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=onedark" />
+</a>    
+
+<a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=cobalt" />
+</a>
+
+<!--theme=synthwave />
+    theme=highcontrast" />
+    theme=dracula"  />
+    theme=radical" />
+    theme=merko" />
+    theme=gruvbox" />
+    theme=dark" />
+    theme=onedark" />
+    theme=cobalt" />
+!-->
