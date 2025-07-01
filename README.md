@@ -6,16 +6,6 @@
 
 ---
 
-## 📞 Contact Information
-
-* **Phone number:** (+84) 924 202 149 
-* **Email:** huykyunh.k@gmail.com 
-* **GitHub:** [https://github.com/hkhuang07/](https://github.com/hkhuang07/)
-* **Facebook:** [https://www.facebook.com/hk.huang07/](https://www.facebook.com/hk.huang07/)
-* **Location:** Long Xuyen City, An Giang Province, Vietnam
-
----
-
 ## 🚀 Projects
 
 Here are some of my key projects, showcasing my development skills and interests:
@@ -40,6 +30,17 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=gruvbox" alt="2H SecondHand Website - PHP" />
   </a>
 </p>
+
+
+---
+
+## 📞 Contact Information
+
+* **Phone number:** (+84) 924 202 149 
+* **Email:** huykyunh.k@gmail.com 
+* **GitHub:** [https://github.com/hkhuang07/](https://github.com/hkhuang07/)
+* **Facebook:** [https://www.facebook.com/hk.huang07/](https://www.facebook.com/hk.huang07/)
+* **Location:** Long Xuyen City, An Giang Province, Vietnam
 
 ---
 
