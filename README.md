@@ -39,7 +39,7 @@ Here are some of my key projects, showcasing my development skills and interests
 * **Phone number:** (+84) 924 202 149 
 * **Email:** huykyunh.k@gmail.com 
 * **GitHub:** [https://github.com/hkhuang07/](https://github.com/hkhuang07/)
-* **Facebook:** [https://www.facebook.com/hk.huang07/](https://www.facebook.com/hk.huang07/)
+* **Facebook:** [https://www.facebook.com/hk.huang07/](https://www.facebook.com/huangguohuih.k07)
 * **Location:** Long Xuyen City, An Giang Province, Vietnam
 
 ---
