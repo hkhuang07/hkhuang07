@@ -2,10 +2,8 @@
 My name is Huynh Quoc Huy. I am a Working-Student at An Giang University. I have a passion for several topics such as Cloud Storage Service,  Information System Management, Mobile App, Website Technology, NLP, Computer Vision...<br>
 ## 📫 How to reach me: 
 
-[![GitHub](https://github.com/hkhuang07/)]
-[![Facebook](https://www.facebook.com/hk.huang07/)]
-
-![Huy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hkhuang07&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+[[GitHub](https://github.com/hkhuang07/)]
+[[Facebook](https://www.facebook.com/hk.huang07/)]
 
 <a href="https://github.com/hkhuang07/Sales-Management-Application-In-3-Layer-Architecture-EF-Core">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
