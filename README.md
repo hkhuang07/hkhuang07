@@ -44,6 +44,13 @@ Here are some of my key projects, showcasing my development skills and interests
 
 ---
 
+## 🎓 Education
+* **An Giang University** | Long Xuyen City, An Giang, Vietnam
+* **Bachelor of Science in Information Technology**
+* **Expected Graduation:** 2026 
+
+---
+
 ## 🛠️ Skills
 
 **Programming Languages:** 
@@ -96,14 +103,6 @@ Here are some of my key projects, showcasing my development skills and interests
 * **Effective Communication:** Clear and concise in conveying technical information and collaborating with team members.
 
 ---
-
-## 🎓 Education
-* **An Giang University** | Long Xuyen City, An Giang, Vietnam
-* **Bachelor of Science in Information Technology**
-* **Expected Graduation:** 2026 (e.g., 2026)
-
----
-
 
 <!--theme=synthwave />
     theme=highcontrast" />
