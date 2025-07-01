@@ -2,8 +2,9 @@
 My name is Huynh Quoc Huy. I am a Working-Student at An Giang University. I have a passion for several topics such as Cloud Storage Service,  Information System Management, Mobile App, Website Technology, NLP, Computer Vision...<br>
 ## 📫 How to reach me: 
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hkhuang07/) 
-[![Facebook](https://github.com/vietnh1009/introduction/blob/main/Facebook.png) Facebook](https://www.facebook.com/hk.huang07/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)]
+[![GitHub](https://github.com/hkhuang07/)]
+[![Facebook](https://www.facebook.com/hk.huang07/)]
 
 
 
