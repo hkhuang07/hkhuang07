@@ -11,7 +11,7 @@
 Here are some of my key projects, showcasing my development skills and interests:
 
 <p align="center">
-  <a href="https://github.com/hkhuang07/Sales-Management-Application-In-3-Layer-Architecture-EF-Core">
+  <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=highcontrast" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
   </a>
   <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
@@ -56,6 +56,7 @@ Here are some of my key projects, showcasing my development skills and interests
 **Programming Languages:** 
 * C#, Java : Intermediate
 * HTML, CSS, JavaScript, PHP : Intermediate
+* C/ Objective-C: Intermediate
 * Python: Basic
 * Batch Script, Assembly language: Basic
 
