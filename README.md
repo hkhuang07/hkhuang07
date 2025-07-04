@@ -12,13 +12,13 @@ Here are some of my key projects, showcasing my development skills and interests
 
 <p align="center">
   <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=highcontrast" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
   </a>
   <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=cobalt" alt="Sales Management Website - Supabase" />
   </a>
   <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=merko" alt="Sales Management Mobile App - Firebase" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=highcontrast" alt="Sales Management Mobile App - Firebase" />
   </a>
   <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=onedark" alt="Long Xuyen Map Website - Firebase" />
