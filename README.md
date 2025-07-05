@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-## 👨‍💻 Huynh Quoc Huy - Aspiring Software Developer
+## 👨‍💻 Huynh Quoc Huy - Passionate Software Developer
 
 **My name is Huynh Quoc Huy.** I am a Working-Student at An Giang University, passionate about leveraging technology to solve real-world problems. My interests span across Cloud Storage Services, Information System Management, Mobile App Development, Website Technologies, Natural Language Processing (NLP), and Computer Vision. I am eager to apply my skills and learn new technologies in a dynamic work environment.
 
