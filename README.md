@@ -29,6 +29,9 @@ Here are some of my key projects, showcasing my development skills and interests
   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=gruvbox" alt="2H SecondHand Website - PHP" />
   </a>
+  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=synthwave" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
+  </a>
 </p>
 
 
