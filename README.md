@@ -20,8 +20,11 @@ Here are some of my key projects, showcasing my development skills and interests
   <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=highcontrast" alt="Sales Management Mobile App - Firebase" />
   </a>
+  <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=onedark" alt="Pay-Claim-Sales-App-Python-Tkinter" />
+  </a>
   <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=onedark" alt="Long Xuyen Map Website - Firebase" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=dracula" alt="Long Xuyen Map Website - Firebase" />
   </a>
   <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=dark" alt="Online News Site - NodeJS & MongoDB Atlas" />
@@ -30,10 +33,9 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=gruvbox" alt="2H SecondHand Website - PHP" />
   </a>
   <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=dracula" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
   </a>
 </p>
-
 
 ---
 
