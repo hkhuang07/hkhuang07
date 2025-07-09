@@ -94,9 +94,9 @@ Here are some of my key projects, showcasing my development skills and interests
 
 ## 🗣️ Languages 🌍
 
-* <span style="color:#009246;">**Vietnamese:**</span> **Native** 🇻🇳
-* <span style="color:#4285F4;">**English:**</span> **Intermediate** 🇬🇧
-* <span style="color:#EE1C23;">**Chinese:**</span> **Basic** 🇨🇳
+* <span style="color:#009246;">**Vietnamese:**</span> **Native**
+* <span style="color:#4285F4;">**English:**</span> **Intermediate**
+* <span style="color:#EE1C23;">**Chinese:**</span> **Basic**
 
 ---
 
