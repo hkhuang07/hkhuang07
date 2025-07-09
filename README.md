@@ -57,7 +57,7 @@ Here are some of my key projects, showcasing my development skills and interests
   
 ---
 
-##🌟 Skills & Experience 
+## 🌟 Skills & Experience 
 ### 🌐 Programming Languages:
 * <span style="color:#00599C;">**C#**</span>, <span style="color:#007396;">**Java**</span> : **Intermediate** 🚀
 * <span style="color:#E34C26;">**HTML**</span>, <span style="color:#264DE4;">**CSS**</span>, <span style="color:#F7DF1E;">**JavaScript**</span>, <span style="color:#777BB4;">**PHP**</span> : **Intermediate** 💡
