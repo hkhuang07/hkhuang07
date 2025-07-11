@@ -62,7 +62,7 @@ Here are some of my key projects, showcasing my development skills and interests
 * <span style="color:#00599C;">**C#**</span>, <span style="color:#007396;">**Java**</span> : **Intermediate** 🚀
 * <span style="color:#E34C26;">**HTML**</span>, <span style="color:#264DE4;">**CSS**</span>, <span style="color:#F7DF1E;">**JavaScript**</span>, <span style="color:#777BB4;">**PHP**</span> : **Intermediate** 💡
 * <span style="color:#555555;">**C**</span> / <span style="color:#336699;">**Objective-C**</span>: **Intermediate** 🛠️
-* <span style="color:#3776AB;">**Python**</span>: **Basic** 🌱
+* <span style="color:#3776AB;">**Python**</span>: **Intermediate** 🌱
 * <span style="color:#8E44AD;">**Batch Script**</span>, <span style="color:#666666;">**Assembly language**</span>: **Basic** ⚙️
 
 ### 📦 Frameworks & Libraries:
@@ -72,8 +72,8 @@ Here are some of my key projects, showcasing my development skills and interests
 * <span style="color:#38B2AC;">**Tailwind CSS**</span>, <span style="color:#7952B3;">**Bootstrap 5**</span> 🎨
 
 ### ☁️ Technologies & Platforms:
-* <span style="color:#FFCA28;">**Firebase**</span> (Firestore, Authentication) 🔥
 * <span style="color:#3ECF8E;">**Supabase**</span> (Database, Authentication, Storage, Policy...) 🍃
+* <span style="color:#FFCA28;">**Firebase**</span> (Firestore, Authentication) 🔥
 * <span style="color:#47A248;">**MongoDB Atlas**</span> 🌿
 * <span style="color:#FF9900;">**Cloud Computing Concepts**</span> (Basic understanding of AWS/GCP/Azure) ☁️
 * <span style="color:#F05033;">**Git**</span> & <span style="color:#181717;">**GitHub**</span> 🐙
