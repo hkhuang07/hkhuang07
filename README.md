@@ -26,17 +26,17 @@ Here are some of my key projects, showcasing my development skills and interests
   <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dark" alt="Pay-Claim-Sales-App-Python-Tkinter" />
   </a>
+  <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=synthwave" alt="CPU-Visualizer-Python-PyQt6" />
+  </a>
   <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=onedark" alt="Long Xuyen Map Website - Firebase" />
-  </a>
-  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
   </a>
   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=gruvbox" alt="2H SecondHand Website - PHP" />
   </a>
-  <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=synthwave" alt="CPU-Visualizer-Python-PyQt6" />
+  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
   </a>
   
 </p>
