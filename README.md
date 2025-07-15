@@ -21,7 +21,7 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=highcontrast" alt="Sales Management Mobile App - Firebase" />
   </a>
   <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=gruvbox" alt="CPU-Visualizer-Python-PyQt6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=radical" alt="CPU-Visualizer-Python-PyQt6" />
   </a>
   <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=dark" alt="Online News Site - NodeJS & MongoDB Atlas" />
@@ -30,7 +30,7 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=onedark" alt="Pay-Claim-Sales-App-Python-Tkinter" />
   </a>
   <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=radical" alt="Long Xuyen Map Website - Firebase" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=gruvbox" alt="Long Xuyen Map Website - Firebase" />
   </a>
   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=dracula" alt="2H SecondHand Website - PHP" />
