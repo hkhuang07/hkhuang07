@@ -29,11 +29,11 @@ Here are some of my key projects, showcasing my development skills and interests
   <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=radical" alt="CPU-Visualizer-Python-PyQt6" />
   </a>
-  <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=gruvbox" alt="Online News Site - NodeJS & MongoDB Atlas" />
-  </a>
   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=onedark" alt="2H SecondHand Website - PHP" />
+  </a>
+  <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=gruvbox" alt="Online News Site - NodeJS & MongoDB Atlas" />
   </a>
   <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=synthwave" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
