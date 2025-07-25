@@ -10,7 +10,7 @@
 
 Here are some of my key projects, showcasing my development skills and interests:
 
-
+<p align = "center">
  <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
   </a>
@@ -51,8 +51,6 @@ Here are some of my key projects, showcasing my development skills and interests
   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=onedark" alt="2H SecondHand Website - PHP" />
   </a>
-  
-
   
 </p>
 
