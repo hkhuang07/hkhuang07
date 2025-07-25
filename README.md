@@ -12,12 +12,12 @@ Here are some of my key projects, showcasing my development skills and interests
 
 
  <p align="center">
-  
+
+  <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
+  </a>
   <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
-  </a>
-   <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
   </a>
   
   <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
