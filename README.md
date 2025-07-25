@@ -28,7 +28,7 @@ Here are some of my key projects, showcasing my development skills and interests
   </a>
 
   <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=synthwave" alt="Pay-Claim-Sales-App-Python-Tkinter" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=radical" alt="Pay-Claim-Sales-App-Python-Tkinter" />
   </a>
  <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=cobalt" alt="CPU-Visualizer-Python-PyQt6" />
@@ -42,10 +42,10 @@ Here are some of my key projects, showcasing my development skills and interests
   </a>
   
   <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=radical" alt="Online News Site - NodeJS & MongoDB Atlas" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
   </a>
  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=synthwave" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
   </a>
 <!--dracula>
 </p>
