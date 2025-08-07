@@ -26,7 +26,7 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=onedark" alt="Sales Management Website - Supabase" />
   </a>
 
-   a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
+   <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dracula" alt="Pay-Claim-Sales-App-Python-Tkinter" />
   </a>
    <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
