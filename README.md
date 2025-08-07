@@ -44,9 +44,9 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
   </a>
  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical-" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
   </a>
-<!--dark  highcontrast  dracula radical->
+<!--merko gruvbox onedark dracula cobalt highcontrast dark synthwave radical->
 </p>
 
 ---
