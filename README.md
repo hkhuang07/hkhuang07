@@ -118,7 +118,7 @@ Here are some of my key projects, showcasing my development skills and interests
 * **Teamwork & Collaboration:** 🤝 Experience collaborating effectively in group projects to achieve shared goals.
 * **Adaptability:** 🌀 Eager to embrace new technologies and methodologies, quickly adapting to evolving project requirements.
 * **Effective Communication:** 💬 Clear and concise in conveying technical information and collaborating with team members.
-* **Presentation: ** 💬 Ability to present content coherently, confidently, and in an understandable manner to everyone 
+* **Presentation:** 💬 Ability to present content coherently, confidently, and in an understandable manner to everyone 
 ---
 <!---
 
