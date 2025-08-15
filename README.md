@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Huynh Quoc Huy - Passionate Software & Full Stack Developer
 
-**My name is Huynh Quoc Huy.** I am a Working-Student at An Giang University, passionate about leveraging technology to solve real-world problems. My interests span across Cloud Storage Services, Information System Management, Mobile App Development, Website Technologies, Natural Language Processing (NLP), and Computer Vision. I am eager to apply my skills and learn new technologies in a dynamic work environment.
+**My name is Huynh Quoc Huy.** I am a Working-Student at An Giang University, passionate about leveraging technology to solve real-world problems. My interests span across Cloud Storage Services, Information System Management, Mobile App Development, Website Technologies (PHP, MERN Stack...). I am eager to apply my skills and learn new technologies in a dynamic work environment.
 
 ---
 
