@@ -62,14 +62,14 @@ Here are some of my key projects, showcasing my development skills and interests
 
   <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=highcontrast" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
-   </a>
-   <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
-  </a>
-
   <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
   </a>
+    
+   </a>
+   <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
+   </a>
   <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
   </a>  
