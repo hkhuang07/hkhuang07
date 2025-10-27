@@ -31,25 +31,7 @@
   <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUgMTBoMmwtMyAzLTMgLTNoM0MxLjggMyA2LjMgMCAxMiAwek0xOSAxNEgyMnY0bC02LjcgMy0zLTN6TTEwIDhoNHY2aC00VjhkMCAwIDI0IDI0IiBmaWxsPSIjRkZGRkZGIi8+PC9zdmc+" alt="RESTful APIs Badge" />
-<br/> <br/>
-
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Batch_Script-C13515?style=for-the-badge&logo=windows&logoColor=white" alt="Batch Script Badge" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Assembly Badge" />
-<br/> <br/>
-
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge" />
-</p>
+<br/> 
 
 ---
 
@@ -62,18 +44,22 @@ Here are some of my key projects, showcasing my development skills and interests
 
   <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=highcontrast" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
+  </a>
+  <a href="https://github.com/hkhuang07/NewsMart-ECommerce-Laravel">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=NewsMart-ECommerce-Laravel&theme=highcontrast" alt="NewsMart-ECommerce-Laravel" />
+  </a>
+  
+  <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
+  </a>  
   <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
   </a>
     
-   </a>
+   
    <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
    </a>
-  <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
-  </a>  
-   
   <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=cobalt" alt="Sales Management Website - Supabase" />
   </a>
