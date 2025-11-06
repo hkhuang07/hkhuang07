@@ -81,7 +81,9 @@ Here are some of my key projects, showcasing my development skills and interests
   <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
   </a>
-  
+  <a href="https://github.com/hkhuang07/Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project&theme=radical" alt="Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project" />
+  </a>
  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
   </a>
