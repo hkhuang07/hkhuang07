@@ -39,7 +39,6 @@
 
 Here are some of my key projects, showcasing my development skills and interests:
 
-
  <p align="center">
 
   <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
@@ -56,7 +55,9 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
   </a>
     
-   
+   <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS&theme=gruvbox" alt="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS" />
+   </a>
    <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
    </a>
