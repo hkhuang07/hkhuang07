@@ -80,10 +80,10 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=onedark" alt="Sales Management Website - Supabase" />
   </a>
    <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=dark" alt="2H SecondHand Website - PHP" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=onedark" alt="2H SecondHand Website - PHP" />
   </a>
    <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=dracula" alt="Long Xuyen Map Website - Firebase" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=dark" alt="Long Xuyen Map Website - Firebase" />
   </a>
    <a href="https://github.com/hkhuang07/Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project&theme=radical" alt="Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project" />
