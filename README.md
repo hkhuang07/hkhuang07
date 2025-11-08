@@ -65,27 +65,27 @@ Here are some of my key projects, showcasing my development skills and interests
    <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
    </a>
-  <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=cobalt" alt="Sales Management Website - Supabase" />
-  </a>
-  <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=onedark" alt="Pay-Claim-Sales-App-Python-Tkinter" />
-  </a>
-  
-   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=dark" alt="2H SecondHand Website - PHP" />
-  </a>
- <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dark" alt="CPU-Visualizer-Python-PyQt6" />
-  </a>
-  
-   <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=dracula" alt="Long Xuyen Map Website - Firebase" />
-  </a>
   <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
   </a>
-  <a href="https://github.com/hkhuang07/Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project">
+   
+   <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=gruvbox" alt="Pay-Claim-Sales-App-Python-Tkinter" />
+  </a>
+   <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dark" alt="CPU-Visualizer-Python-PyQt6" />
+  </a>
+     
+  <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=onedark" alt="Sales Management Website - Supabase" />
+  </a>
+   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=dark" alt="2H SecondHand Website - PHP" />
+  </a>
+   <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=dracula" alt="Long Xuyen Map Website - Firebase" />
+  </a>
+   <a href="https://github.com/hkhuang07/Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project&theme=radical" alt="Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project" />
   </a>
  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
