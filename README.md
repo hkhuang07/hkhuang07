@@ -39,59 +39,67 @@
 
 Here are some of my key projects, showcasing my development skills and interests:
 
- <p align="center">
-
-   <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
+<p align="center">
+<!--C# .NET Entity Framwork-->
+<a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
   </a>  
   <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
-  </a>
+</a>
   
-  <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
+<!--Java-->
+<a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
+</a>
+<!--MERN Stack-->
+<a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=cobalt" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
-  </a>
-  <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=cobalt" alt="IoT-Smart-Garden-NodeJS" />
-  </a>
-
-  <a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
+</a>
+<!-- Chatbot Python NextJS -->
+<a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=gruvbox" alt="CPU-Visualizer-Python-PyQt6" />
+</a>
+<!-- Website ESJ Nodejs-->
+<a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
+</a>
+<!--IoT C++ NextJS NodeJS-->
+<a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=cobalt" alt="IoT-Smart-Garden-NodeJS"/>
+</a>
+<!--PHP Laravel-->
+<a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=highcontrast" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
   </a>
   <a href="https://github.com/hkhuang07/NewsMart-ECommerce-Laravel">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=NewsMart-ECommerce-Laravel&theme=highcontrast" alt="NewsMart-ECommerce-Laravel" />
   </a>
-   
-   <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dracula" alt="Pay-Claim-Sales-App-Python-Tkinter" />
-  </a>
-   <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
+<!--CPU Python-->
+<a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
-  </a>
-  
-  <a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=gruvbox" alt="CPU-Visualizer-Python-PyQt6" />
-  </a>
-  
-  <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
-   </a>
-  <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
-  </a>
-     
-  <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
+</a>
+<!--Sales Python-->
+<a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dracula" alt="Pay-Claim-Sales-App-Python-Tkinter" />
+</a>
+<!--Cloud Supabase-->
+<a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=synthwave" alt="Sales Management Website - Supabase" />
   </a>
-   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=dark" alt="2H SecondHand Website - PHP" />
-  </a>
-   <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
+<!--Cloud Firebase-->
+  <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=dark" alt="Long Xuyen Map Website - Firebase" />
   </a>
-   <a href="https://github.com/hkhuang07/Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project">
+<!--PHP Website-->
+<a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=dark" alt="2H SecondHand Website - PHP" />
+</a>
+<!--System Safety Network Security PHP-->
+  <a href="https://github.com/hkhuang07/Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project&theme=radical" alt="Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project" />
   </a>
+<!--Network AdministratorAdministrator-->
  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model for Windows Virtual Machine on VMware" />
   </a>
