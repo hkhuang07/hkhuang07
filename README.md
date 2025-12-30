@@ -49,6 +49,7 @@ Here are some of my key projects, showcasing my development skills and interests
 <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
 </a>
+
 <!--C# .NET Entity Framwork-->
 <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
@@ -73,13 +74,14 @@ Here are some of my key projects, showcasing my development skills and interests
 <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=cobalt" alt="IoT-Smart-Garden-NodeJS"/>
 </a>
+
 <!-- Chatbot Python NextJS -->
 <a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=gruvbox" alt="CPU-Visualizer-Python-PyQt6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
 </a>
 <!--Blockchain Sawtooth Python Nodejs-->
-<a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dracula" alt="Pay-Claim-Sales-App-Python-Tkinter" />
+<a href="https://github.com/hkhuang07/Iot-Blockchain-Sawtooth-Authentication">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Iot-Blockchain-Sawtooth-Authentication&theme=dracula" alt="Iot-Blockchain-Sawtooth-Authentication" />
 </a>
 
 <!--Sales Python-->
