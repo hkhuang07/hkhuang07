@@ -70,18 +70,19 @@ Here are some of my key projects, showcasing my development skills and interests
 <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=cobalt" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
 </a>
+<!-- Chatbot Python NextJS -->
+<a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=cobalt" alt="CPU-Visualizer-Python-PyQt6" />
+</a>
+
 <!--IoT C++ NextJS NodeJS-->
 <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=cobalt" alt="IoT-Smart-Garden-NodeJS"/>
 </a>
 
-<!-- Chatbot Python NextJS -->
-<a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
-</a>
 <!--Blockchain Sawtooth Python Nodejs-->
 <a href="https://github.com/hkhuang07/Iot-Blockchain-Sawtooth-Authentication">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Iot-Blockchain-Sawtooth-Authentication&theme=dracula" alt="Iot-Blockchain-Sawtooth-Authentication" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Iot-Blockchain-Sawtooth-Authentication&theme=cobalt" alt="Iot-Blockchain-Sawtooth-Authentication" />
 </a>
 
 <!--Sales Python-->
