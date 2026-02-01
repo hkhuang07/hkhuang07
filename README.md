@@ -97,16 +97,16 @@ Here are some of my key projects, showcasing my development skills and interests
 </a-->  
 
 <a href="https://github.com/hkhuang07/SynthWavEco-IoT-ECommerce-Platform">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=onedark" alt="SynthWavEco-IoT-ECommerce-Platform" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=synthwave" alt="SynthWavEco-IoT-ECommerce-Platform" />
 </a>
 <!-- Chatbot Python NextJS -->
 <a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=dark" alt="CPU-Visualizer-Python-PyQt6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=onedark" alt="CPU-Visualizer-Python-PyQt6" />
 </a>
 
 <!--Cloud Supabase-->
 <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=synthwave" alt="Sales Management Website - Supabase" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=dark" alt="Sales Management Website - Supabase" />
   </a>
   
 <!--Cloud Firebase>
