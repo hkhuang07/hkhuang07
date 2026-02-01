@@ -65,13 +65,6 @@ Here are some of my key projects, showcasing my development skills and interests
 <a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=highcontrast" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
 </a>
-<a href="https://github.com/hkhuang07/SynthWavEco-IoT-ECommerce-Platform">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=onedark" alt="SynthWavEco-IoT-ECommerce-Platform" />
-</a>
-<!-- Chatbot Python NextJS -->
-<a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=dark" alt="CPU-Visualizer-Python-PyQt6" />
-</a>
 
 <!--MERN Stack-->
 <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
@@ -101,7 +94,15 @@ Here are some of my key projects, showcasing my development skills and interests
 <!-- Website ESJ Nodejs>
 <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
-</a>  
+</a-->  
+
+<a href="https://github.com/hkhuang07/SynthWavEco-IoT-ECommerce-Platform">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=onedark" alt="SynthWavEco-IoT-ECommerce-Platform" />
+</a>
+<!-- Chatbot Python NextJS -->
+<a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=dark" alt="CPU-Visualizer-Python-PyQt6" />
+</a>
 
 <!--Cloud Supabase-->
 <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
