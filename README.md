@@ -66,7 +66,7 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=highcontrast" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
 </a>
 <a href="https://github.com/hkhuang07/SynthWavEco-IoT-ECommerce-Platform">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=dark" alt="SynthWavEco-IoT-ECommerce-Platform" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=onedark" alt="SynthWavEco-IoT-ECommerce-Platform" />
 </a>
 <!-- Chatbot Python NextJS -->
 <a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
