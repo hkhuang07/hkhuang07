@@ -66,21 +66,16 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=highcontrast" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
 </a>
 <a href="https://github.com/hkhuang07/SynthWavEco-IoT-ECommerce-Platform">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=highcontrast" alt="SynthWavEco-IoT-ECommerce-Platform" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=dark" alt="SynthWavEco-IoT-ECommerce-Platform" />
+</a>
+<!-- Chatbot Python NextJS -->
+<a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=dark" alt="CPU-Visualizer-Python-PyQt6" />
 </a>
 
 <!--MERN Stack-->
 <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=cobalt" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
-</a>
-<!-- Chatbot Python NextJS -->
-<a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=cobalt" alt="CPU-Visualizer-Python-PyQt6" />
-</a>
-
-<!--IoT C++ NextJS NodeJS-->
-<a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=cobalt" alt="IoT-Smart-Garden-NodeJS"/>
 </a>
 
 <!--Blockchain Sawtooth Python Nodejs-->
@@ -88,10 +83,16 @@ Here are some of my key projects, showcasing my development skills and interests
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Iot-Blockchain-Sawtooth-Authentication&theme=cobalt" alt="Iot-Blockchain-Sawtooth-Authentication" />
 </a>
 
-<!--Sales Python-->
+<!--IoT C++ NextJS NodeJS-->
+<a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=dracula" alt="IoT-Smart-Garden-NodeJS"/>
+</a>
+
+
+<!--Sales Python>
 <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dracula" alt="Pay-Claim-Sales-App-Python-Tkinter" />
-</a>
+</a-->
 <!--CPU Python-->
 <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
