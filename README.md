@@ -65,6 +65,9 @@ Here are some of my key projects, showcasing my development skills and interests
 <a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=highcontrast" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
 </a>
+<a href="https://github.com/hkhuang07/SynthWavEco-IoT-ECommerce-Platform">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=highcontrast" alt="SynthWavEco-IoT-ECommerce-Platform" />
+</a>
 
 <!--MERN Stack-->
 <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
