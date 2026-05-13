@@ -42,8 +42,8 @@ Here are some of my key projects, showcasing my development skills and interests
 <p align="center">
 
 <!--Java SpringBoot-->
-<a href="https://github.com/hkhuang07/EInvoiceHub-SpringBoot-Angular-GitOps-Kubernetes">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=EInvoiceHub-SpringBoot-Angular-GitOps-Kubernetes&theme=gruvbox" alt="EInvoiceHub-SpringBoot-Angular-GitOps-Kubernetes" />
+<a href="https://github.com/hkhuang07/EInvoiceHub-SpringBoot-Angular-GitOps-ArgoCD-Kubernetes-Terraform">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=EInvoiceHub-SpringBoot-Angular-GitOps-ArgoCD-Kubernetes-Terraform&theme=gruvbox" alt="EInvoiceHub-SpringBoot-Angular-GitOps-ArgoCD-Kubernetes-Terraform" />
 </a>
 <!--Java Android-->
 <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
@@ -72,8 +72,8 @@ Here are some of my key projects, showcasing my development skills and interests
 </a>
 
 <!--Blockchain Sawtooth Python Nodejs-->
-<a href="https://github.com/hkhuang07/Iot-Blockchain-Sawtooth-Authentication">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Iot-Blockchain-Sawtooth-Authentication&theme=cobalt" alt="Iot-Blockchain-Sawtooth-Authentication" />
+<a href="https://github.com/hkhuang07/Asset-Management-Hyperledger-Sawtooth-Blockchain">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Asset-Management-Hyperledger-Sawtooth-Blockchain&theme=cobalt" alt="Asset-Management-Hyperledger-Sawtooth-Blockchain" />
 </a>
 
 <!--IoT C++ NextJS NodeJS-->
