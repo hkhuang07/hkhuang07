@@ -13,16 +13,24 @@ Here are some of my key projects, showcasing my development skills and technical
 <p align="center">
   <!-- Cloud-Native & GitOps / Java SpringBoot -->
   <a href="https://github.com/hkhuang07/DiginvoiceStation-SpringBoot-Vue-GitOps">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DiginvoiceStation-SpringBoot-Vue-GitOps&theme=gruvbox" alt="DiginvoiceStation-SpringBoot-Vue-GitOps" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DiginvoiceStation-SpringBoot-Vue-GitOps&theme=cobalt" alt="DiginvoiceStation-SpringBoot-Vue-GitOps" />
   </a>
   <!-- MERN & Next.js Ecosystem -->
   <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=cobalt" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
   </a>
 
+  <!--C# .NET Entity Framwork-->
+<a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-In-3-Layer-Architecture-EF-Core&theme=merko" alt="Sales Management Application - 3 Layer Architecture & EF Core" />
+  </a>  
+  <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
+</a>
+
   <!-- Blockchain Technology -->
   <a href="https://github.com/hkhuang07/Asset-Management-Hyperledger-Sawtooth-Blockchain">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Asset-Management-Hyperledger-Sawtooth-Blockchain&theme=cobalt" alt="Asset-Management-Hyperledger-Sawtooth-Blockchain" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Asset-Management-Hyperledger-Sawtooth-Blockchain&theme=highcontrast" alt="Asset-Management-Hyperledger-Sawtooth-Blockchain" />
   </a>
   <!-- IoT Framework -->
   <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
@@ -43,8 +51,13 @@ Here are some of my key projects, showcasing my development skills and technical
   </a>
   <!-- Chatbot Integration -->
   <a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=onedark" alt="BankSoft-RuleBased-ChatBot-Python-NextJS" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=radical" alt="BankSoft-RuleBased-ChatBot-Python-NextJS" />
   </a>
+<!--CPU Python-->
+<a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
+</a>
+  
 </p>
 
 <details>
