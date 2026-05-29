@@ -39,10 +39,10 @@ Here are some of my key projects, showcasing my development skills and technical
 
   <!-- PHP Laravel & E-Commerce -->
   <a href="https://github.com/hkhuang07/NewsMart-ECommerce-Laravel">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=NewsMart-ECommerce-Laravel&theme=highcontrast" alt="NewsMart-ECommerce-Laravel" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=NewsMart-ECommerce-Laravel&theme=onedark" alt="NewsMart-ECommerce-Laravel" />
   </a>
   <a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=highcontrast" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=onedark" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
   </a>
 
   <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
