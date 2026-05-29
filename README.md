@@ -42,8 +42,8 @@ Here are some of my key projects, showcasing my development skills and interests
 <p align="center">
 
 <!--Java SpringBoot-->
-<a href="https://github.com/hkhuang07/EInvoiceHub-SpringBoot-Angular-GitOps-ArgoCD-Kubernetes-Terraform">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=EInvoiceHub-SpringBoot-Angular-GitOps-ArgoCD-Kubernetes-Terraform&theme=gruvbox" alt="EInvoiceHub-SpringBoot-Angular-GitOps-ArgoCD-Kubernetes-Terraform" />
+<a href="https://github.com/hkhuang07/DiginvoiceStation-SpringBoot-Vue-GitOps">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DiginvoiceStation-SpringBoot-Vue-GitOps&theme=gruvbox" alt="DiginvoiceStation-SpringBoot-Vue-GitOps" />
 </a>
 <!--Java Android-->
 <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
