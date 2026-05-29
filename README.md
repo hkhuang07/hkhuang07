@@ -49,7 +49,7 @@ Here are some of my key projects, showcasing my development skills and technical
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
 </a>
 <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=dark" alt="Sales Management Website - Supabase" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=gruvbox" alt="Sales Management Website - Supabase" />
   </a>
 
   <!-- Cyber Security & Infrastructure -->
@@ -58,7 +58,7 @@ Here are some of my key projects, showcasing my development skills and technical
   </a>
   <!-- Chatbot Integration -->
   <a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=synthwave" alt="BankSoft-RuleBased-ChatBot-Python-NextJS" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=radical" alt="BankSoft-RuleBased-ChatBot-Python-NextJS" />
   </a>
 <!--CPU Python-->
 <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
@@ -68,26 +68,27 @@ Here are some of my key projects, showcasing my development skills and technical
 </p>
 
 <details>
-  <summary>🌐 Click to view more repositories (Mobile Apps, Cloud, Systems)...</summary>
+  <summary>🌐 Click to view more repositories (Network Administrator, E-commerce, Python Basic, Cloud)...</summary>
   <br>
+  <p align="center">
+
   <a href="https://github.com/hkhuang07/SynthWavEco-IoT-ECommerce-Platform">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=synthwave" alt="SynthWavEco-IoT-ECommerce-Platform" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=onedark" alt="SynthWavEco-IoT-ECommerce-Platform" />
   </a>
   <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model" />
-    </a>
-  <p align="center">
+  </a>
     <!--Sales Python-->
-    <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
+  <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dracula" alt="Pay-Claim-Sales-App-Python-Tkinter" />
-    </a>
-  <!--Cloud Firebase-->
+  </a>
+  <!--Cloud -->
+  <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
+  </a>  
   <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=dark" alt="Long Xuyen Map Website - Firebase"    />
   </a>
-  <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
-  </a-->  
   <!--PHP Website-->
   <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=dark" alt="2H SecondHand Website - PHP" />
