@@ -34,7 +34,7 @@ Here are some of my key projects, showcasing my development skills and technical
   </a>
   <!-- IoT Framework -->
   <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=dracula" alt="IoT-Smart-Garden-NodeJS"/>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=highcontrast" alt="IoT-Smart-Garden-NodeJS"/>
   </a>
 
   <!-- PHP Laravel & E-Commerce -->
@@ -43,6 +43,13 @@ Here are some of my key projects, showcasing my development skills and technical
   </a>
   <a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=highcontrast" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
+  </a>
+
+  <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
+</a>
+<a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=dark" alt="Sales Management Website - Supabase" />
   </a>
 
   <!-- Cyber Security & Infrastructure -->
