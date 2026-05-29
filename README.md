@@ -185,7 +185,6 @@ Here are some of my key projects, showcasing my development skills and technical
 
 * **Email:** huykyunh.k@gmail.com 
 * **GitHub:** [github.com/hkhuang07](https://github.com/hkhuang07/)
-* **Facebook:** [facebook.com/huangguohuih.k07](https://www.facebook.com/huangguohuih.k07)
 * **Location:** Long Xuyen City, An Giang Province, Vietnam
 
 ---
