@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Huynh Quoc Huy - Passionate Software & Full Stack Developer
 
-**My name is Huynh Quoc Huy.** I am a Working-Student at An Giang University, passionate about leveraging technology to solve real-world problems. My interests span across Cloud-Native Infrastructure, Full-Stack Technologies, Information System Management, Blockchain, IoT, AI and Cyber Security. I am eager to apply my skills and learn new technologies in a dynamic work environment.
+**My name is Huynh Quoc Huy.** I am a Working-Student at An Giang University, passionate about leveraging technology to solve real-world problems. My interests span across Cloud-Native Infrastructure, Information System Management, Cyber Security, Blockchain, and Full-Stack Technologies. I am eager to apply my skills and learn new technologies in a dynamic work environment.
 
 ---
 
@@ -142,4 +142,76 @@ Here are some of my key projects, showcasing my development skills and technical
         <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino / IoT" />
-        <img src="
+        <img src="https://img.shields.io/badge/ROS2_Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>☁️ DevOps & GitOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🔒 Security & OS</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Cyber Security" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Databases & Cloud</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 🧳 Programming Languages & Platforms
+* **Core Languages:** Java, JavaScript, TypeScript, PHP, C#, Python, Go, HTML5/CSS3
+* **Familiar Systems:** C, Objective-C, Assembly Language, Batch Script
+* **Mobile Platforms:** Android Java & Jetpack Compose
+
+---
+
+## 🗣️ Languages 🌍
+
+* **Vietnamese:** Native
+* **English:** Upper-Intermediate (B2 VSTEP)
+* **Chinese:** Basic
+
+---
+
+## 🤝 Soft Skills & Attributes
+
+* **Continuous Learning & Self-Discipline:** Highly self-motivated with a strong aptitude for mastering complex distributed technologies.
+* **Complex Problem-solving:** Aptitude for dissecting software security vulnerabilities and performance bottlenecks.
+* **Agile Collaboration:** Experienced in collaborative ecosystems using GitOps workflows to deliver robust software solutions.
+
+---
+
+## 📞 Contact Information
+
+* **Email:** huykyunh.k@gmail.com 
+* **GitHub:** [github.com/hkhuang07](https://github.com/hkhuang07/)
+* **Location:** Long Xuyen City, An Giang Province, Vietnam
+
+---
+
+## 🎓 Education
+* **An Giang University** | Long Xuyen City, An Giang, Vietnam
+* **Bachelor of Science in Information Technology** (Expected Graduation: 2026)
