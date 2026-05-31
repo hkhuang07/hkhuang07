@@ -14,8 +14,8 @@ Here are some of my key projects, showcasing my development skills and technical
   <a href="https://github.com/hkhuang07/DiginvoiceStation-SpringBoot-Vue-GitOps">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DiginvoiceStation-SpringBoot-Vue-GitOps&theme=cobalt" alt="DiginvoiceStation-SpringBoot-Vue-GitOps" />
   </a>
-  <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=cobalt" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
+  <a href="https://github.com/hkhuang07/Hugo-Sanitas-HK07-ROS2-Multiagent-LLM-VT-IOT">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Hugo-Sanitas-HK07-ROS2-Multiagent-LLM-VT-IOT&theme=cobalt" alt="Hugo-Sanitas-HK07-ROS2-Multiagent-LLM-VT-IOT" />
   </a>
 
   <a href="https://github.com/hkhuang07/Asset-Management-Hyperledger-Sawtooth-Blockchain">
@@ -23,6 +23,13 @@ Here are some of my key projects, showcasing my development skills and technical
   </a>
   <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=highcontrast" alt="IoT-Smart-Garden-NodeJS"/>
+  </a>
+  
+  <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=dracula" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
+  </a>
+  <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
   </a>
 
   <a href="https://github.com/hkhuang07/Sales-Management-Application-ASP.NET-EF-Core-In-3-Layer-Architecture">
@@ -52,9 +59,7 @@ Here are some of my key projects, showcasing my development skills and technical
   <a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=radical" alt="BankSoft-RuleBased-ChatBot-Python-NextJS" />
   </a>
-  <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
-  </a>
+  
 </p>
 
 <details>
