@@ -24,13 +24,6 @@ Here are some of my key projects, showcasing my development skills and technical
   <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=highcontrast" alt="IoT-Smart-Garden-NodeJS"/>
   </a>
-  
-  <a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=dracula" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
-  </a>
-  <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
-  </a>
 
   <a href="https://github.com/hkhuang07/Sales-Management-Application-.NET-Entity-Framework-3-Layer-Architecture">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-.NET-Entity-Framework-3-Layer-Architecture&theme=merko" alt="Sales-Management-Application-.NET-Entity-Framework-3-Layer-Architecture" />
@@ -44,6 +37,13 @@ Here are some of my key projects, showcasing my development skills and technical
   </a>
   <a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=onedark" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
+  </a>
+  
+<a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=dracula" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
+  </a>
+  <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
   </a>
 
   <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
