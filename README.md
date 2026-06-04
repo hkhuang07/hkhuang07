@@ -68,13 +68,13 @@ Here are some of my key projects, showcasing my development skills and technical
   <a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=onedark" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
   </a>
-  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=radical" alt="DNS-DHCP Model" />
-    </a>
-    <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
+   <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dracula" alt="Pay-Claim-Sales-App-Python-Tkinter" />
     </a>
-    <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
+  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=synthwave" alt="DNS-DHCP Model" />
+    </a>
+  <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
     </a>  
     <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
