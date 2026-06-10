@@ -49,8 +49,8 @@ Here are some of my key projects, showcasing my development skills and technical
   <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
   </a>
-  <a href="https://github.com/hkhuang07/Sales-Management-Website-Supabase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Website-Supabase&theme=gruvbox" alt="Sales Management Website - Supabase" />
+  <a href="https://github.com/hkhuang07/SecondHand-Store-Cloud-Supabase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SecondHand-Store-Cloud-Supabase&theme=gruvbox" alt="SecondHand-Store-Cloud-Supabase" />
   </a>
 </p>
 
