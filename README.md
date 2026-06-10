@@ -14,8 +14,8 @@ Here are some of my key projects, showcasing my development skills and technical
   <a href="https://github.com/hkhuang07/DiginvoiceStation-SpringBoot-Vue-GitOps">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DiginvoiceStation-SpringBoot-Vue-GitOps&theme=cobalt" alt="DiginvoiceStation-SpringBoot-Vue-GitOps" />
   </a>
-  <a href="https://github.com/hkhuang07/Hugo-Sanitas-HK07-ROS2-Multiagent-LLM-VT-IOT">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Hugo-Sanitas-HK07-ROS2-Multiagent-LLM-VT-IOT&theme=cobalt" alt="Hugo-Sanitas-HK07-ROS2-Multiagent-LLM-VT-IOT" />
+  <a href="https://github.com/hkhuang07/HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT&theme=cobalt" alt="HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT" />
   </a>
 
   <a href="https://github.com/hkhuang07/Asset-Management-Hyperledger-Sawtooth-Blockchain">
