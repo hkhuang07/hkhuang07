@@ -39,8 +39,8 @@ Here are some of my key projects, showcasing my development skills and technical
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=NewsMart-ECommerce-Laravel&theme=onedark" alt="NewsMart-ECommerce-Laravel" />
   </a>
   
-<a href="https://github.com/hkhuang07/Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS&theme=dracula" alt="Urban-Flows-Vio-Website-Using-MERN-Stack-NextJS" />
+<a href="https://github.com/hkhuang07/UrbanFlows-Ecommerce-MERN-Stack-NextJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=UrbanFlows-Ecommerce-MERN-Stack-NextJS&theme=dracula" alt="UrbanFlows-Ecommerce-MERN-Stack-NextJS"/>
   </a>
   <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
