@@ -32,8 +32,8 @@ Here are some of my key projects, showcasing my development skills and technical
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
   </a>
 
-  <a href="https://github.com/hkhuang07/SynthWavEco-IoT-ECommerce-Platform">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynthWavEco-IoT-ECommerce-Platform&theme=onedark" alt="SynthWavEco-IoT-ECommerce-Platform" />
+  <a href="https://github.com/hkhuang07/SynWavEco-ECommerce-Laravel">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynWavEco-ECommerce-Laravel&theme=onedark" alt="SynWavEco-ECommerce-Laravel" />
   </a>
   <a href="https://github.com/hkhuang07/NewsMart-ECommerce-Laravel">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=NewsMart-ECommerce-Laravel&theme=onedark" alt="NewsMart-ECommerce-Laravel" />
