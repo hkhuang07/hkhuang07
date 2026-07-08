@@ -14,7 +14,7 @@ Here are some of my key projects, showcasing my development skills and technical
   <a href="https://github.com/hkhuang07/DiginvoiceStation-SpringBoot-Vue-GitOps">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DiginvoiceStation-SpringBoot-Vue-GitOps&theme=cobalt" alt="DiginvoiceStation-SpringBoot-Vue-GitOps" />
   </a>
-  <a href="https://github.com/hkhuang07/HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT">
+  <a href="https://github.com/hkhuang07">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT&theme=cobalt" alt="HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT" />
   </a>
 
