@@ -1,8 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-## 👨‍💻 Huynh Quoc Huy - Passionate Software & Full Stack Developer
+## 👨‍💻 Huynh Quoc Huy - Passionate  Full-Stack Developer
 
-**My name is Huynh Quoc Huy.** I am a Working-Student at An Giang University, passionate about leveraging technology to solve real-world problems. My interests span across Cloud-Native Infrastructure, Information System Management, Cyber Security, Blockchain, and Full-Stack Technologies. I am eager to apply my skills and learn new technologies in a dynamic work environment.
+**My name is Huynh Quoc Huy.**  I am a Full-Stack Developer with practical experience in building highly scalable web applications. I develop systems using Java (Spring Boot, Hibernate) and C# (.NET Core), integrated with modern front-ends like Vue 3 and ReactJs (Next.js, TypeScript). I have a strong command of distributed architectures, Design Patterns, OOP, Data Structures, and database technologies including MySQL, Oracle, SQL Server, and MongoDB. Additionally, I am proficient in automating GitOps (CI/CD) pipelines utilizing Docker, Kubernetes, and ArgoCD.
 
 ---
 
