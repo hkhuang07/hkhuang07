@@ -25,8 +25,8 @@ Here are some of my key projects, showcasing my development skills and technical
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=highcontrast" alt="IoT-Smart-Garden-NodeJS"/>
   </a>
 
-  <a href="https://github.com/hkhuang07/Sales-Management-Application-.NET-Entity-Framework-3-Layer-Architecture">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Application-.NET-Entity-Framework-3-Layer-Architecture&theme=merko" alt="Sales-Management-Application-.NET-Entity-Framework-3-Layer-Architecture" />
+  <a href="https://github.com/hkhuang07/DigiPOSE-ASP.NET-React-NextJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DigiPOSE-ASP.NET-React-NextJS&theme=merko" alt="DigiPOSE-ASP.NET-React-NextJS" />
   </a>  
   <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
