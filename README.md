@@ -18,18 +18,18 @@ Here are some of my key projects, showcasing my development skills and technical
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT&theme=cobalt" alt="HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT" />
   </a>
 
-  <a href="https://github.com/hkhuang07/Asset-Management-Hyperledger-Sawtooth-Blockchain">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Asset-Management-Hyperledger-Sawtooth-Blockchain&theme=highcontrast" alt="Asset-Management-Hyperledger-Sawtooth-Blockchain" />
-  </a>
-  <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=highcontrast" alt="IoT-Smart-Garden-NodeJS"/>
-  </a>
-
   <a href="https://github.com/hkhuang07/DigiPOSE-ASP.NET-React-NextJS">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DigiPOSE-ASP.NET-React-NextJS&theme=merko" alt="DigiPOSE-ASP.NET-React-NextJS" />
   </a>  
   <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
+  </a>
+
+  <a href="https://github.com/hkhuang07/Asset-Management-Hyperledger-Sawtooth-Blockchain">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Asset-Management-Hyperledger-Sawtooth-Blockchain&theme=highcontrast" alt="Asset-Management-Hyperledger-Sawtooth-Blockchain" />
+  </a>
+  <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=highcontrast" alt="IoT-Smart-Garden-NodeJS"/>
   </a>
 
   <a href="https://github.com/hkhuang07/SynWavEco-ECommerce-Laravel">
