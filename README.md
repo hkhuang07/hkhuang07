@@ -58,30 +58,30 @@ Here are some of my key projects, showcasing my development skills and technical
   <summary>🌐 Click to view more repositories (Network Administrator, E-commerce, Python Basic, Cloud)...</summary>
   <br>
   <p align="center">
- <a href="https://github.com/hkhuang07/Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project&theme=radical" alt="Web-Server-Attack-Techniques-System-Safety-and-Cyber-Security-Project" />
+ <a href="https://github.com/hkhuang07/webserver-attack-techniques">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=webserver-attack-techniques&theme=radical" alt="webserver-attack-techniques" />
   </a>
-  <a href="https://github.com/hkhuang07/BankSoft-RuleBased-ChatBot-Python-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=BankSoft-RuleBased-ChatBot-Python-NextJS&theme=radical" alt="BankSoft-RuleBased-ChatBot-Python-NextJS" />
+  <a href="https://github.com/hkhuang07/banksoft-chatbot">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=banksoft-chatbot&theme=radical" alt="banksoft-chatbot" />
   </a>
   
-  <a href="https://github.com/hkhuang07/GreenTech-Commerce-IoT-Devices-Laravel">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=GreenTech-Commerce-IoT-Devices-Laravel&theme=onedark" alt="GreenTech-Commerce-IoT-Devices-Laravel" />
+  <a href="https://github.com/hkhuang07/greentech-ecommerce-laravel">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=greentech-ecommerce-laravel&theme=onedark" alt="greentech-ecommerce-laravel" />
   </a>
-   <a href="https://github.com/hkhuang07/Pay-Claim-Sales-App-Python-Tkinter">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Pay-Claim-Sales-App-Python-Tkinter&theme=dracula" alt="Pay-Claim-Sales-App-Python-Tkinter" />
+   <a href="https://github.com/hkhuang07/payclaim-sales-python">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=payclaim-sales-python&theme=dracula" alt="payclaim-sales-python" />
     </a>
-  <a href="https://github.com/hkhuang07/DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DNS-DHCP-Model-for-Windows-Virtual-Machine-on-VMware&theme=synthwave" alt="DNS-DHCP Model" />
+  <a href="https://github.com/hkhuang07/dns-dhcp-network-administrator-model">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=dns-dhcp-network-administrator-model&theme=synthwave" alt="dns-dhcp-network-administrator-model" />
     </a>
-  <a href="https://github.com/hkhuang07/Online-News-Site-NodeJS-MongoDB-Atlat">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Online-News-Site-NodeJS-MongoDB-Atlat&theme=synthwave" alt="Online News Site - NodeJS & MongoDB Atlas" />
+  <a href="https://github.com/hkhuang07/onlinenews-ejs-mogodb">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=onlinenews-ejs-mogodb&theme=synthwave" alt="onlinenews-ejs-mogodb" />
     </a>  
-    <a href="https://github.com/hkhuang07/Long-Xuyen-Map-Website-Firesbase">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Long-Xuyen-Map-Website-Firesbase&theme=dark" alt="Long Xuyen Map Website - Firebase" />
+    <a href="https://github.com/hkhuang07/lx-map-firebase">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=lx-map-firebase&theme=dark" alt="lx-map-firebase" />
     </a>
-    <a href="https://github.com/hkhuang07/2H-SecondHand-Website-PHP">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2H-SecondHand-Website-PHP&theme=dark" alt="2H SecondHand Website - PHP" />
+    <a href="https://github.com/hkhuang07/2h-php">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2h-php&theme=dark" alt="2h-php" />
     </a>
   </p>
 </details>
