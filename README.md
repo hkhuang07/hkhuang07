@@ -11,46 +11,46 @@
 Here are some of my key projects, showcasing my development skills and technical evolutionary path:
 
 <p align="center">
-  <a href="https://github.com/hkhuang07/DiginvoiceStation-SpringBoot-Vue-GitOps">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DiginvoiceStation-SpringBoot-Vue-GitOps&theme=cobalt" alt="DiginvoiceStation-SpringBoot-Vue-GitOps" />
+  <a href="https://github.com/hkhuang07/diginvoice-station-springboot">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=diginvoice-station&theme=cobalt" alt="diginvoice-station-springboot" />
   </a>
-  <a href="https://github.com/hkhuang07">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT&theme=cobalt" alt="HugoSanitas-HK07-ROS2-Multiagent-SLM-CV-IOT" />
+  <a href="https://github.com/hkhuang07/hugo-sanitas-system">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=hugo-sanitas-system&theme=cobalt" alt="hugo-sanitas-system" />
   </a>
 
-  <a href="https://github.com/hkhuang07/DigiPOSE-ASP.NET-React-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=DigiPOSE-ASP.NET-React-NextJS&theme=merko" alt="DigiPOSE-ASP.NET-React-NextJS" />
+  <a href="https://github.com/hkhuang07/digipose-asp">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=digipose-asp&theme=merko" alt="digipose-asp" />
   </a>  
-  <a href="https://github.com/hkhuang07/Sales-Management-Client-Server-Model-Socket-Multil-Threads">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Client-Server-Model-Socket-Multil-Threads&theme=merko" alt="Sales-Management-Client-Server-Model-Socket-Multil-Threads" />
+  <a href="https://github.com/hkhuang07/electronic-store-winform">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=electronic-store-winform&theme=merko" alt="electronic-store-winform" />
   </a>
 
-  <a href="https://github.com/hkhuang07/Asset-Management-Hyperledger-Sawtooth-Blockchain">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Asset-Management-Hyperledger-Sawtooth-Blockchain&theme=highcontrast" alt="Asset-Management-Hyperledger-Sawtooth-Blockchain" />
+  <a href="https://github.com/hkhuang07/asset-management-sawtooth">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=asset-management-sawtooth&theme=highcontrast" alt="asset-management-sawtooth" />
   </a>
-  <a href="https://github.com/hkhuang07/IoT-Smart-Garden-NodeJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=IoT-Smart-Garden-NodeJS&theme=highcontrast" alt="IoT-Smart-Garden-NodeJS"/>
+  <a href="https://github.com/hkhuang07/smart-garden-iot">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=smart-garden-iot&theme=highcontrast" alt="smart-garden-iot"/>
   </a>
 
-  <a href="https://github.com/hkhuang07/SynWavEco-ECommerce-Laravel">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SynWavEco-ECommerce-Laravel&theme=onedark" alt="SynWavEco-ECommerce-Laravel" />
+  <a href="https://github.com/hkhuang07/synwaveco-ecommerce-laravel">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=synwaveco-ecommerce-laravel&theme=onedark" alt="synwaveco-ecommerce-laravel" />
   </a>
-  <a href="https://github.com/hkhuang07/NewsMart-ECommerce-Laravel">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=NewsMart-ECommerce-Laravel&theme=onedark" alt="NewsMart-ECommerce-Laravel" />
+  <a href="https://github.com/hkhuang07/newmart-ecommerce-laravel">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=newmart-ecommerce-laravel&theme=onedark" alt="newmart-ecommerce-laravel" />
   </a>
   
-<a href="https://github.com/hkhuang07/UrbanFlows-ECommerce-MERN-Stack-NextJS">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=UrbanFlows-ECommerce-MERN-Stack-NextJS&theme=dracula" alt="UrbanFlows-ECommerce-MERN-Stack-NextJS"/>
+<a href="https://github.com/hkhuang07/urbanflows-ecommerce-mernstack">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=urbanflows-ecommerce-mernstack&theme=dracula" alt="urbanflows-ecommerce-mernstack"/>
   </a>
-  <a href="https://github.com/hkhuang07/CPU-Visualizer-Python-PyQt6">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=CPU-Visualizer-Python-PyQt6&theme=dracula" alt="CPU-Visualizer-Python-PyQt6" />
+  <a href="https://github.com/hkhuang07/cpu-visualizer">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=cpu-visualizer&theme=dracula" alt="cpu-visualizer" />
   </a>
 
-  <a href="https://github.com/hkhuang07/Sales-Management-Mobile-App-Firebase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=Sales-Management-Mobile-App-Firebase&theme=gruvbox" alt="Sales Management Mobile App - Firebase" />
+  <a href="https://github.com/hkhuang07/sales-mobile-app-firebase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=sales-mobile-app-firebase&theme=gruvbox" alt="sales-mobile-app-firebase" />
   </a>
-  <a href="https://github.com/hkhuang07/SecondHand-Store-Cloud-Supabase">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=SecondHand-Store-Cloud-Supabase&theme=gruvbox" alt="SecondHand-Store-Cloud-Supabase" />
+  <a href="https://github.com/hkhuang07/2hand-store-supabase">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hkhuang07&repo=2hand-store-supabase&theme=gruvbox" alt="2hand-store-supabase" />
   </a>
 </p>
 
