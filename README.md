@@ -102,11 +102,12 @@ Here are some of my key projects, showcasing my development skills and technical
       <td><b>🌐 Backend & Frameworks</b></td>
       <td>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework" />
+        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework" />
       </td>
     </tr>
     <tr>
@@ -122,7 +123,6 @@ Here are some of my key projects, showcasing my development skills and technical
     <tr>
       <td><b>📱 Mobile (Android)</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
         <img src="https://img.shields.io/badge/Java_Android-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Android" />
       </td>
     </tr>
@@ -156,9 +156,10 @@ Here are some of my key projects, showcasing my development skills and technical
     <tr>
       <td><b>🔒 Security & OS</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+        <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Ubuntu" />
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
         <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Cyber Security" />
       </td>
     </tr>
